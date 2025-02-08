@@ -1,0 +1,3 @@
+body {
+    background-color: green !important; /* We put it important since we have alredy declared it in global style */
+}
